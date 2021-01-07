@@ -21,12 +21,12 @@
     "uilayout": "iframe",
     "showdashboard": true,
     "dashboards": [
-      {"name": "Lab url", "href": "https://github.com/sysdiglabs/dummy-vuln-app"}
+      {"name": "oreilly.com", "href": "https://oreilly.com"}
     ]
   },
   "backend": {
-    "imageid": "javascript",
-    "url": "https://secure.sysdig.com/#/"
+    //"imageid": "javascript",
+    "url": "https://katacoda.com"
   },
   "private": true
 }
