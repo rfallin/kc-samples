@@ -25,6 +25,7 @@
     ]
   },
   "backend": {
+    "imageid": "javascript",
     "url": "https://katacoda.com"
   },
   "private": true
